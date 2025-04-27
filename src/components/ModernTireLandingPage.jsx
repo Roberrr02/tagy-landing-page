@@ -133,7 +133,7 @@ const ModernTireLandingPage = () => {
   </div>
   <div className="stat-item">
     <div className="stat-value">10%</div>
-    <p className="stat-description">Niedrigerer Kraftstoffverbrauch durch reduzierten Rollwiderstand</p>
+    <p className="stat-description">Niedrigerer Kraftstoffverbrauch durch reduzierten Rollwiderstands</p>
   </div>
 </div> 
 */}
